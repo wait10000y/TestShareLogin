@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>66FA6BBA-E3D7-4504-AC27-09765D55E848</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestShareLogin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BF9A3F10-A742-4D6F-BDEF-FA441170FAA9</key>
+		<string>https://github.com/wait10000y/TestShareLogin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestShareLogin.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BF9A3F10-A742-4D6F-BDEF-FA441170FAA9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wait10000y/TestShareLogin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BF9A3F10-A742-4D6F-BDEF-FA441170FAA9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BF9A3F10-A742-4D6F-BDEF-FA441170FAA9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestShareLogin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
